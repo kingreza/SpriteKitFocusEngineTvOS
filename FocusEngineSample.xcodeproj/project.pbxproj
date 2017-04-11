@@ -15,6 +15,7 @@
 		576B02301E9C5699001E590A /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576B022F1E9C5699001E590A /* GameViewController.swift */; };
 		576B02331E9C5699001E590A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 576B02311E9C5699001E590A /* Main.storyboard */; };
 		576B02351E9C569C001E590A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 576B02341E9C569C001E590A /* Assets.xcassets */; };
+		576B023D1E9C5855001E590A /* FocusableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576B023C1E9C5855001E590A /* FocusableButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		576B02321E9C5699001E590A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		576B02341E9C569C001E590A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		576B02361E9C569D001E590A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		576B023C1E9C5855001E590A /* FocusableButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FocusableButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				576B02271E9C5697001E590A /* GameScene.sks */,
 				576B02291E9C5697001E590A /* Actions.sks */,
 				576B022B1E9C5697001E590A /* Game.xcassets */,
+				576B023C1E9C5855001E590A /* FocusableButton.swift */,
 				576B022D1E9C5698001E590A /* GameScene.swift */,
 				576B022F1E9C5699001E590A /* GameViewController.swift */,
 				576B02311E9C5699001E590A /* Main.storyboard */,
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				576B023D1E9C5855001E590A /* FocusableButton.swift in Sources */,
 				576B022E1E9C5698001E590A /* GameScene.swift in Sources */,
 				576B02301E9C5699001E590A /* GameViewController.swift in Sources */,
 				576B02261E9C5697001E590A /* AppDelegate.swift in Sources */,
