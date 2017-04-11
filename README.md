@@ -1,5 +1,5 @@
 
-# SpriteKit Focus Engine example for TvOS
+# SpriteKit Focus Engine example for tvOS
 A collection like behaviour on tvOS using SpriteKit and Focus Engine (Swift 3.0)
 
 ![gif gif gif!](https://s3-us-west-1.amazonaws.com/reza-word/focusEngine.gif)
